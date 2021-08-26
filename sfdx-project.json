@@ -1,0 +1,20 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "ErrorLoggerPackageUnlocked",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "ErrorLoggingPackage",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "ErrorLoggerPackageUnlocked": "0Ho5e000000sYAfCAM",
+        "ErrorLoggerPackageUnlocked@0.1.0-1": "04t5e000000BIFwAAO",
+        "ErrorLoggerPackageUnlocked@0.1.0-2": "04t5e000000BIG1AAO"
+    }
+}
