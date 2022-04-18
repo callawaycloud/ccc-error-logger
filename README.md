@@ -2,7 +2,7 @@
 
 #### Developed by: Evan Matthews, August 2021
 
-###### **\***Download sf unlocked package at: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5f00000074BtAAI**\***
+###### Download sf unlocked package at: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5e000000BIG1AAO
 
 This easy-to-implement utility can be dropped into any SalesForce Org to begin
 logging and tracking errors that occure throughout the Apex landscape.
