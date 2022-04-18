@@ -2,18 +2,18 @@
 
 #### Developed by: Evan Matthews, August 2021
 
-###### *****Download sf unlocked package at: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5e000000BIG1AAO*****
+###### **\***Download sf unlocked package at: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5f00000074BtAAI**\***
 
 This easy-to-implement utility can be dropped into any SalesForce Org to begin
 logging and tracking errors that occure throughout the Apex landscape.
 
 To implement this tool, either install the package using the link above, or copy/paste the necessary folders/files from 'force-app/main/default' into
-the appropriate folders in your SF Org codebase. (ie. all Apex classes/meta > 'classes' folder, custom Error_Log__c object > 'objects' folder)
+the appropriate folders in your SF Org codebase. (ie. all Apex classes/meta > 'classes' folder, custom Error_Log\_\_c object > 'objects' folder)
 
 ##### What's Included:
 
 - The ErrorLogging and ErrorHelper classes which create the logs
-- The Error_Log__c custom object, which has custom list views for past 24 hours and past 7 days
+- The Error_Log\_\_c custom object, which has custom list views for past 24 hours and past 7 days
 - DeleteErrorLogBatch schedulable class for regular purge of logs
 - An "Error Logs" custom tab for use in any app
 - Test classes with 100% coverage for all Apex classes

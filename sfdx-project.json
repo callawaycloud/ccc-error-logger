@@ -3,18 +3,18 @@
         {
             "path": "force-app",
             "default": true,
-            "package": "ErrorLoggerPackageUnlocked",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "package": "CCC-Error-Logging",
+            "versionName": "Version 1.1",
+            "versionNumber": "1.1.0.NEXT"
         }
     ],
-    "name": "ErrorLoggingPackage",
+    "name": "CCC-Error-Logging",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "52.0",
+    "sourceApiVersion": "54.0",
     "packageAliases": {
-        "ErrorLoggerPackageUnlocked": "0Ho5e000000sYAfCAM",
-        "ErrorLoggerPackageUnlocked@0.1.0-1": "04t5e000000BIFwAAO",
-        "ErrorLoggerPackageUnlocked@0.1.0-2": "04t5e000000BIG1AAO"
+        "CCC-Error-Logging": "0Ho5f000000bliWCAQ",
+        "CCC-Error-Logging@1.1.0-1": "04t5f00000074BoAAI",
+        "CCC-Error-Logging@1.1.0-2": "04t5f00000074BtAAI"
     }
 }
